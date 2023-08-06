@@ -4,7 +4,7 @@ Function:
 Open app -> 
 Choose movie genre -> 
 List of suggestion is open in new browser -> 
-Every openin  g is through new search engine -> 
+Every opening is through new search engine -> 
 4 search engines are included 
 
 Purpose:
