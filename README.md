@@ -13,4 +13,4 @@ Using multiple search engine algorithm will avoid this blocking
 
 
 
-![app](https://github.com/AndrejGitH/SearchEngineApp/assets/141548698/305922db-ffbc-489b-a4cb-059443d2804f)
+![app](https://github.com/AndrejGitH/SearchEngineApp/assets/141548698/305922db-ffbc-489b-a4cb-059443d2804f).
